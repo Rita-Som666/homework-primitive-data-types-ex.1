@@ -4,7 +4,7 @@ public class Main {
         int bonus = 20;
         int mile = tiket / bonus;
 
-        System.out.println("Вам будет начислено "+mile+" миль");
+        System.out.println("Вам будет начислено " + mile + " миль");
     }
 
 }
